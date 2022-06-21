@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td>Geeks for Geeks SDE Sheet</td>
-    <td>[Click Here](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/)</td>
+    <td>[Click Here] (https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/)</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
